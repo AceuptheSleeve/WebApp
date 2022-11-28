@@ -1,27 +1,35 @@
 a {
-    color: cadetblue;
+    color: #5b87cf;
+    font-size: 155%;
+    font-style: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
 a:hover {
     color: skyblue;
 }
 
-#header{
+.header {
     z-index:1;
-    width:100%;
-    background-color: #000d9b;
+    background-color: #174999;
     color:whitesmoke;
     border:ridge; 
     flex-direction:row;
     flex-wrap:wrap;
-    font-size:large;
     display:block;
     position:relative;
-    height:25%;
-    padding:3%;
     border-color: whitesmoke;
+    text-align: center;
 }
 
-.stretch{
-    width:100%;
+.textblock {
+    background-color: #174999;
+    color:whitesmoke;
+    border:ridge;
+    flex-direction:row;
+    flex-wrap:wrap;
+    text-align: left;
+    margin-right: 45%;
+    margin-top: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif
 }
