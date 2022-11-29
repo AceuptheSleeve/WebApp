@@ -55,6 +55,7 @@ a:hover {
     text-align: center;
     margin-left: 40%;
     margin-right: 40%;
+    margin-top: 10px;
     font-size: large;
 }
 
@@ -71,4 +72,8 @@ a:hover {
 
 html {
     font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+#leftimage {
+    color:whitesmoke;
 }
