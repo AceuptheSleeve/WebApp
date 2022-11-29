@@ -75,5 +75,21 @@ html {
 }
 
 #leftimage {
-    color:whitesmoke;
+    width:12.5%;
+    height:10%;
+    float: left;
+}
+
+#centerimage {
+    float: center;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+
+#leftimage2 {
+    margin-right: 10%;
+    margin-bottom: 15%;
+    width:25%;
+    height:10%;
+    float:right;
 }
